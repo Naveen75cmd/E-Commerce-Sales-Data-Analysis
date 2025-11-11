@@ -58,7 +58,7 @@ The project is divided into two main phases:
 **Setup:**
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/Naveen75cmd/E-Commerce-Sales-Data-Analysis
     cd your-repository-name
     ```
 
@@ -113,4 +113,4 @@ Here are some of the key DAX measures created for the KPI cards and visuals:
 *   **Profit Margin:** `Profit Margin = DIVIDE([Total Profit], [Total Sales])`
 *   **Average Order Value:** `Average Order Value = DIVIDE([Total Sales], [Total Orders])`
 
-*(Note: 'TableName' should be replaced with the actual name of the data table in your Power BI model.)*
+
